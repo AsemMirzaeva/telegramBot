@@ -19,7 +19,7 @@ const (
 	tgBotHost   = "api.telegram.org"
 	storagePath = "files_storage"
 	batchSize   = 100
-	// token = "8138152240:AAGwa-89PrRGIsDgZxR4__m-ONvnDz800jo"
+	
 )
 
 func main() {
